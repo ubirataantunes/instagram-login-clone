@@ -125,6 +125,8 @@ section {
 .nao-tem-conta p a {
     color: #0095f6;
     text-decoration: none;
+    margin-left: 3px;
+    font-weight: 500;
 }
 /* obtena o aplicativo */
 .obtenha-o-aplicativo p {
